@@ -1002,7 +1002,6 @@ pointer
 		     DCL_TYPE($3) = EEPPOINTER;
 		     break;
 		 default:
-		     break;
 		   // this could be just "constant" 
 		   // werror(W_PTR_TYPE_INVALID);
 		     break;
